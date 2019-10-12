@@ -1,0 +1,17 @@
+[Unit]
+Description=Python Lora Service
+After=network.Target
+
+[Service]
+ExecStart=/usr/bin/python3 -u /home/pi/snplora/data_to_lora.py
+WorkingDirectory=/home/pi/snplora/
+Restart=always
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=p
+User=pi
+WatchdogSec=3600
+
+[Install]
+WantedBy=multi-user.target
+
