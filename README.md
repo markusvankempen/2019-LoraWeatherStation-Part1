@@ -2,6 +2,8 @@
 
 Using LoRa Environmental / Weather Station 
 
+here a video https://www.youtube.com/watch?v=j_9OsHQvFYY
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -70,7 +72,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Markus van Kempen ** - *Initial work* - [PurpleBooth](https://github.com/markusvankempen)
+* **Markus van Kempen ** - *Initial work* - [here](https://github.com/markusvankempen)
 
 See also the list of [contributors](https://github.com/markusvankempen) who participated in this project.
 
